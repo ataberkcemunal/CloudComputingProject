@@ -1,0 +1,8 @@
+<script>start("/Users/ataberk/VS Code/CS 436 - PROJECT/backend/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow(".git",".git",1,320,"320 B",1747844810,"21.05.2025 19:26:50");</script>
+<script>addRow("node_modules","node_modules",1,4224,"4.1 kB",1747841203,"21.05.2025 18:26:43");</script>
+<script>addRow("Dockerfile","Dockerfile",0,113,"113 B",1747841246,"21.05.2025 18:27:26");</script>
+<script>addRow("package-lock.json","package-lock.json",0,62471,"61.0 kB",1747841203,"21.05.2025 18:26:43");</script>
+<script>addRow("package.json","package.json",0,368,"368 B",1747841195,"21.05.2025 18:26:35");</script>
+<script>addRow("server.js","server.js",0,3021,"3.0 kB",1747843880,"21.05.2025 19:11:20");</script>
